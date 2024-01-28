@@ -1,15 +1,20 @@
 ### Hi there 👋
 
-I am **Chinedu J. Anyaogu** a graduate of Computer Science/Mathematics graduate, a Pastor and a Data Analyst
+### This is Chinedu J. Anyaogu
 
-Here are some ideas to get you started:
+### I am a graduate of Computer Science/Mathematics, Pastor and now Data Analyst
 
-- 🔭 I’m currently working on Dahel Program
-- 🌱 I’m currently learning PowerBI, SQL, Excel and Tabulu
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on several projects, analyzing data with recommendations
+- 🌱 I’m currently learning at Dahel January Cohort 2024
+- 👯 I’m looking to collaborate with companies, churches, institutions or individuals to work on their data and profer solution
+- 🤔 I’m looking for help with...
+- 💬 Ask me about anything on Data and you won't be disappointed
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/chinedu-anyaogu-0b6404140/)
 - 😄 Pronouns: He
-- ⚡ Fun fact: Empowering, Driving, Writing, Exploring
--->
+- ⚡ Fun fact: Public Speaker, Empowering the youths, Driving, Writing, Exploring new ideas
+  
+**My Strenght:**
+   - Microsoft Excel
+   - PowerBI
+   - SQL
+   - Tableau
